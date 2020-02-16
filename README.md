@@ -1,6 +1,5 @@
-# Apexus: App for X that does Y
-clone this repo and delete code in placeholder files and then rename to what will be required after brainstorming is complete at 2:00 PM CT, February 15th, 2020.
-
+# ServiceShare: A Crowdsourcing-Based Web App for Connecting Local Communities Via GIS
+ServiceShare: Crowdsourcing for Localized Human-Based Volunteering Ventures
 # Contents
 
 * [Objectives]()
