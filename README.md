@@ -1,6 +1,6 @@
-ServiceShare: Crowdsourcing for Localized Human-Based Volunteering Ventures
+# ServiceShare: Crowdsourcing for Localized Human-Based Volunteering Ventures
 
-# Contents
+## Contents
 
 * Objectives
 * Impact and Significance
