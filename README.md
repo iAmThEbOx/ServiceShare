@@ -1,4 +1,4 @@
-# ServiceShare: Crowdsourcing for Localized Human-Based Volunteering Ventures
+# ServiceShare: Web GIS for Localized Event Organization
 
 ## Contents
 
